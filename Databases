@@ -1,0 +1,10 @@
+"Um bancos de dados é uma coleção organizada de informações - ou dados - estruturados" - "https://www.oracle.com/br/database/what-is-database/#:~:text=Um%20banco%20de%20dados%20%C3%A9,banco%20de%20dados%20(DBMS)."
+
+Um DB armazena dados, normalmente provenientes de sistemas de informação, que mais tarde podem ser recuperados. Existem diversos tipos de bancos de dados, e entre os varios tipos existem duas linguagens 
+mais comuns para as consultas, manipulações, definições e controle de acesso do banco. O SQL o NoSQL.
+
+- O SQL é uma linguagem padrão para manipulação de registros em bancos de dados relacionais e o NoSQL é usada em bancos não-relacionais.
+- O NoSQL não foi criado para substituir o SQL, cada banco possui suas particularidades e o NoSQL foi criado com a intenção de suprir demandas as quais o SQL não conseguiria.
+- O SQL utiliza um SGBD para manuseio dos dados. SGBD = "Sistema Gerenciador de Bancos de Dados". O NoSQL recupera-se dados utilizando as linguagens de programação e a chave/valor gerada ao incluir
+algum dado no banco.
+- ETL - Extract, Transact, Load. Reune dados de várias origens para geração de relatórios, análise de dados, entre outros.
